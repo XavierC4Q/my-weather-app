@@ -1,0 +1,58 @@
+.app-wrapper{
+  width: 100%;
+  height: 100%;
+  margin: 0
+}
+
+.weather-head{
+  text-align: center;
+  font-size: 145%;
+}
+
+.welcome-header{
+  margin: 0 auto;
+}
+
+.toggle-btn{
+  width: 25%;
+  background-color: white;
+  border: 0.2em solid black;
+  font-size: 110%;
+  text-align: center
+}
+
+.all-forecast{
+  text-align: center;
+  width: 95%;
+  margin: 0 auto
+}
+
+.forecast-wrapper{
+  border: 1px solid black;
+  width: 14%;
+  height: 100%;
+  float: right;
+  background-color: white;
+}
+
+.avg,.low,.high{
+  font-size: 110%
+}
+
+.avg{
+  color: rebeccapurple
+}
+
+.low{
+  color: blue
+}
+
+.high{
+  color: red
+}
+
+.weather-image{
+  width: 30%;
+  height: 10%;
+  margin: 0 auto;
+}
